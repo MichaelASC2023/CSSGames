@@ -1,0 +1,39 @@
+div {
+    font-family: Helvetica;
+    background-color: #272D33;
+    color: rgb(225, 212, 212);
+    font-size: 32px;
+    padding: 5px;
+    text-decoration: none;
+}
+
+.navBar1 {
+    background-color: #272D33;
+    padding: 5px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 700px;
+    height: 100px;
+    right: 50px;
+    position: absolute;
+    right: 30%;
+    top: 50%;
+    border-radius:40px;
+    box-shadow: 0 20px 50px 0 rgba(0,0,0,0.4);
+}
+
+a {
+    text-decoration: none;
+}
+
+.games {
+    text-decoration: none;
+}
+
+.title {
+    position: absolute;
+    font-size: 80px;
+    right: 30%;
+    top: 20%;
+}
